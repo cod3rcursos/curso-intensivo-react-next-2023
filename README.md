@@ -13,8 +13,9 @@ Esse curso faz parte de uma esquenta para [o evento online e gratuito Transforma
 Você pode encontrar todas as aulas deste curso no [nosso canal no YouTube](https://www.youtube.com/@cod3r/videos). Certifique-se de se inscrever no canal e ativar as notificações para receber atualizações sobre novas aulas e conteúdos adicionais.
 
 * [Aula 1: Introdução ao React e NextJS](https://www.youtube.com/watch?v=b2iWK08pCgs)
-* [Aula 2: Comunicação entre Componentes](https://www.youtube.com/@cod3r/videos)
-* [Aula 3: Renderização condicional & listas](https://www.youtube.com/@cod3r/videos)
+* [Aula 2: Estado & Comunicação](https://www.youtube.com/watch?v=Eb4ZenR9qcY)
+* [Aula 3: Condicionais & Listas](https://www.youtube.com/watch?v=yM_-sra9g1Y)
+* [Aula 4: Hooks personalizados](https://www.youtube.com/watch?v=TE4hnVlQbL4)
 
 ## Tópicos Abordados
 
