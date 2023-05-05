@@ -1,24 +1,23 @@
 import Background from '@/components/starwars/Background'
+import Filmes from '@/components/starwars/Filmes'
 import Personagens from '@/components/starwars/Personagens'
 import useStarWars from '@/data/hooks/useStarWars'
 
 export default function PaginaStarWars() {
-    const { processando, personagens, obterPersonagens } = useStarWars()
+    const { processando, personagens, filmes, voltar, selecionarPersonagem } = useStarWars()
 
     return (
-        <div className="flex flex-col gap-5 justify-center items-center h-screen">
+        <div className="flex flex-col gap-5 justify-center items-center h-screen relative">
             <Background />
-            
-            <button onClick={obterPersonagens} className="bg-blue-500 p-2">
-                Obter
-            </button>
-            
+
             {processando ? (
                 <div>Processando...</div>
+            ) : filmes.length > 0 ? (
+                <Filmes filmes={filmes} voltar={voltar} />
             ) : personagens.length > 0 ? (
-                <Personagens personagens={personagens} />
+                <Personagens personagens={personagens} selecionar={selecionarPersonagem} />
             ) : (
-                <div>Nenhum personagem</div>
+                <div>Dados não encontrados</div>
             )}
         </div>
     )

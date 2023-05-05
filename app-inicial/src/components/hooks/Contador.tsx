@@ -10,7 +10,6 @@ export default function Contador() {
     }, [])
 
     useEffect(() => {
-        console.log('Executando o useEffect...')
         const multi10 = calcularValorMulti10(valor)
         setMulti10(multi10)
     }, [valor, calcularValorMulti10])

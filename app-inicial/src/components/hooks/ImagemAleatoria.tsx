@@ -14,7 +14,6 @@ export default function ImagemAleatoria() {
             `}
                 onClick={() => {
                     alterarPesquisa(valor)
-                    console.log(valor)
                 }}
             >
                 {valor}

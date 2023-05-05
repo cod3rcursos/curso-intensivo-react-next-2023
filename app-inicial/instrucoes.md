@@ -18,4 +18,3 @@
 - ✅ [React] chamar api https://swapi.dev/
 
 - ✅ [React] hooks... useState, useEffect e useCallback
-

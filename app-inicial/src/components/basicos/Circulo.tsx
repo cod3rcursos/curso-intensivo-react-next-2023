@@ -4,7 +4,6 @@ interface CirculoProps {
 }
 
 export default function Circulo(props: CirculoProps) {
-    console.log(props)
     return (
         <div className={`
             flex justify-center items-center
