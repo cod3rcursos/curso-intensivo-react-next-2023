@@ -1,7 +1,6 @@
 # Aspectos Abordados
 
 - ✅ [Next] pasta pages gera as rotas
-- ✅ [React] primeiro componente
 - ✅ [React] componente usando props.children
 - ✅ [React] componente usando props
 - ✅ [React] componente com eventos
@@ -18,3 +17,5 @@
 - ✅ [React] chamar api https://swapi.dev/
 
 - ✅ [React] hooks... useState, useEffect e useCallback
+
+- ✅ [React] useContext e Context API

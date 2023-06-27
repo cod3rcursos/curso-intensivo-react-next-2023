@@ -16,6 +16,8 @@ Você pode encontrar todas as aulas deste curso no [nosso canal no YouTube](http
 * [Aula 2: Estado & Comunicação](https://www.youtube.com/watch?v=Eb4ZenR9qcY)
 * [Aula 3: Condicionais & Listas](https://www.youtube.com/watch?v=yM_-sra9g1Y)
 * [Aula 4: Hooks personalizados](https://www.youtube.com/watch?v=TE4hnVlQbL4)
+* [Aula 5: React Hooks](https://www.youtube.com/watch?v=HdmlyWIpZNQ)
+* [Aula 6: Revisão Hooks](https://www.youtube.com/watch?v=ta9TVnewv08)
 
 ## Tópicos Abordados
 
